@@ -129,7 +129,7 @@
     <div class="container text-center">
         <h1>About Us</h1>
         <p>
-            In this project, we have designed and implemented a database-driven web-application for fictional travel photo sharing <br>
+            In this project, I have designed and implemented a database-driven web-application for fictional travel photo sharing <br>
             community website for DWIN309 unit at Kent Institute Australia. The group members involved in our project are as folows:
         </p><br><br>
         <style>
@@ -140,10 +140,8 @@
             }
         </style>
         <div class="row">
-            <div class="col-md-3 col-sm-12"><div class="students"><span>Sarina Shrestha <br><br>K200439</span></div></div>
-            <div class="col-md-3 col-sm-12"><div class="students"><span>Subash Dhakal <br><br>K200443</span></div></div>
-            <div class="col-md-3 col-sm-12"><div class="students"><span>Manoj Rimal <br><br>K200450</span></div></div>
-            <div class="col-md-3 col-sm-12"><div class="students"><span>Alisha katuwal <br><br>K200217</span></div></div>
+            <div class="col-md-3 col-sm-12"><div class="students"><span>ARJESH kHADKA <br><br>K201035</span></div></div>
+   
         </div><br>
         <div class="panel panel-default">
             <div class="panel-heading" role="tab" id="headingOne">
